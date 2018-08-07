@@ -1,0 +1,7 @@
+﻿  Matrix.cpp
+c:\users\gal\source\repos\convnet\matrixlib\src\matrix.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\matrixlib\src\matrix.cpp(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\gal\source\repos\convnet\matrixlib\src\matrix.cpp(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\gal\source\repos\convnet\matrixlib\src\matrix.cpp(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\matrixlib\src\matrix.cpp(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MatrixLib.vcxproj -> C:\Users\gal\source\repos\Convnet\Debug\MatrixLib.lib

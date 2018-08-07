@@ -1,0 +1,24 @@
+﻿  activationfunction.cpp
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(83): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(90): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(97): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(99): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(149): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(151): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(156): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(158): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(171): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(185): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gal\source\repos\convnet\activationfunctionslib\src\activationfunction.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ActivationFunctionsLib.vcxproj -> C:\Users\gal\source\repos\Convnet\Debug\ActivationFunctionsLib.lib
